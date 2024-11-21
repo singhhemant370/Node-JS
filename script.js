@@ -16,6 +16,9 @@
 
 // console.log(obj.PI);
 
+
+// get data from the folder
+
 const info = require('./Fruits');
 
 console.log(info);
